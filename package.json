@@ -23,7 +23,7 @@
   "dependencies": {
     "command-line-args": "^5.1.1",
     "ts-morph": "^9.1.0",
-    "vscode-ripgrep": "^1.11.1"
+    "vscode-ripgrep": "1.2.0"
   },
   "devDependencies": {
     "@types/command-line-args": "^5.0.0",
